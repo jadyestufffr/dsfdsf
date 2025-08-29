@@ -1,2 +1,2 @@
-_G.drop = true
-_G.cashcounter = true
+_G.drop = false
+_G.cashcounter = false
