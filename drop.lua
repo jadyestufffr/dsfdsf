@@ -1,2 +1,3 @@
-_G.drop = false
-_G.cashcounter = false
+_G.dropB = false
+_G.cashcounterB = false
+_G.stopdropB = false
